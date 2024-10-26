@@ -1,5 +1,6 @@
 ## Hi 👋 My name is Nisarg Mahyavanshi
 ### Full-stack and DevOps Engineer
+🏆 AWS Certified Developer - Associate
 🔭 Currently working on Cloud infrastructure automation and full-stack development projects.<br>
 👯 Looking to collaborate on DevOps and cloud-based automation solutions.<br>
 🤝 I’m looking for help with Advanced Terraform and Ansible for multi-cloud deployments.<br>
